@@ -36,4 +36,4 @@
 * curl -X GET 'http://localhost:8080/rest/mscovid/test?msg=testing'
 
 webhook test
-testing from local
+testing from local 2
